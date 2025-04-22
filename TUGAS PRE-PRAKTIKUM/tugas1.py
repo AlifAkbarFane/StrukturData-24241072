@@ -1,4 +1,4 @@
-tinggi = 3 
+tinggi = 5
 
 for i in range (tinggi):
     spasi = ' ' * (tinggi - i - 1)
