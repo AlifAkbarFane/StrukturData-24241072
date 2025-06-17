@@ -63,10 +63,10 @@ class DoublyLinkedList:
 
 # Contoh penggunaan
 dll = DoublyLinkedList()
-dll.append(1)
 dll.append(2)
-dll.append(3)
 dll.append(4)
+dll.append(6)
+dll.append(8)
 
 print("List sebelum penghapusan:")
 dll.display()
