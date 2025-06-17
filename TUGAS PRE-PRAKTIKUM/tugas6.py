@@ -80,5 +80,5 @@ print("List setelah menghapus node terakhir:")
 dll.display()
 
 dll.delete_by_value(2)
-print("List setelah menghapus node dengan nilai 2:")
+print("List setelah menghapus node dengan nilai 6:")
 dll.display()
